@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophe210&label=Profile%20views&color=0e75b6&style=flat" alt="christophe210" /> </p>
 
-- 🔭 With over 4 years of experience in the IT industry... [Visit my portfolio]([https://nyerekatech.com/](https://christophe210.github.io/Christophe_Resume_-/))
+- 🔭 With over 4 years of experience in the IT industry... [Visit my portfolio](https://christophe210.github.io/Christophe_Resume_-/)
 
-- - 🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
+-  🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
 
 - 🔭 I’m currently working on [goodsamaritantransportationservice](https://goodsamaritantransportationservice.com/)
 
