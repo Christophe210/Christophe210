@@ -10,7 +10,7 @@
 
 -  🔭 Tsinda Media Software Company  [Visit my Company ](https://tsindamedia.com/)
 
--  -  🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
+-  🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
 
 - 🔭 I’m currently working on [goodsamaritantransportationservice](https://goodsamaritantransportationservice.com/)
 
