@@ -8,7 +8,7 @@
 
 - 🔭 Over 4 years of experience in the IT industry... [Visit my portfolio](https://christophe210.github.io/Christophe_Resume_-/)
 
--  🔭 Tsinda Media Software Company  [Visit my Company ](https://tsindamedia.com/)
+-  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
 -  🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
 
