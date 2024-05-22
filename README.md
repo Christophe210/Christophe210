@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophe210&label=Profile%20views&color=0e75b6&style=flat" alt="christophe210" /> </p>
 
-- 🔭 Over 4 years of experience in the IT industry... [Visit my portfolio](https://christophe210.github.io/Christophe_Resume_-/)
+- 🔭 Over 4 years of experience in the IT industry... [Visit My Portfolio](https://christophe210.github.io/Christophe_Resume_-/)
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
--  🔭 I’m currently working on [nyerekatech](https://nyerekatech.com/)
+-  🔭 I’m currently working on [Nyereka Tech](https://nyerekatech.com/)
 
 - 🔭 I’m currently working on [goodsamaritantransportationservice](https://goodsamaritantransportationservice.com/)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/]([https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/](https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chris it 210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chris it 210" height="30" width="40" /></a>
 </p>
