@@ -1,6 +1,6 @@
 ![logo](https://github.com/Christophe210/Christophe210/blob/main/github%20prof.jpg)
 <h1 align="center">Hello 👋, I'm  Nshimiyimana Christophe</h1>
-<h3 align="center">A passionate software developer from Rwanda </h3>
+<h3 align="center"> Passionate Rwandan software developer skilled in Windows XP, Server machines, and ethical hacking. </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,9 +10,9 @@
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
--  🔭 I’m currently working on [Nyereka Tech](https://nyerekatech.com/)
+-  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
 
-- 🔭 I’m currently working on [goodsamaritantransportationservice](https://goodsamaritantransportationservice.com/)
+- 🔭 People can download my CV or check it out [ here ](file:///C:/Users/Tsinda%20Media%20Ltd/Desktop/Project%20Report/Nshimiyimana%20Christophe_CV.pdf)
 
 - 💬 Ask me about **Programming Languages**
 
