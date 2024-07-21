@@ -12,7 +12,7 @@
 
 -  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
 
-- 🔭 People can download my CV or check it out [ here ](file:///C:/Users/Tsinda%20Media%20Ltd/Desktop/Project%20Report/Nshimiyimana%20Christophe_CV.pdf)
+- 🔭 For support or inquiries, you can book a consultation through [ here ](https://www.tsindamedia.com/Get%20in%20touch)
 
 - 💬 Ask me about **Programming Languages**
 
