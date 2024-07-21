@@ -12,7 +12,7 @@
 
 -  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
 
-- 🔭 For support or inquiries, you can book a consultation through [ here ](https://www.tsindamedia.com/Get%20in%20touch)
+- 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
 
 - 💬 Ask me about **Programming Languages**
 
