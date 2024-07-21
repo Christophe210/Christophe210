@@ -28,7 +28,7 @@
 </a>
 <!-- Tsinda Media -->
 <a href="https://tsindamedia.com" target="_blank">
-  <img align="center" src="https://images.app.goo.gl/NKSDiZ9RcpJKtw6o6" alt="Tsinda Media" height="30" width="40" />
+  <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="30" width="40" />
 </a>
 
 <a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
