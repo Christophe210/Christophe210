@@ -9,7 +9,7 @@
 - 🔭 Over 4 years of experience in the IT industry... [Visit My Portfolio](https://christophe210.github.io/Christophe_Resume_-/)
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
-
+-  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
 -  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
 
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
