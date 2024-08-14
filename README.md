@@ -10,7 +10,7 @@
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
--  🔭 For API assistance, get in touch with me  [ Here ](https://wa.me/+250798873226 target="_blank")
+-  🔭 For API assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
 -  
 -  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
 -  
