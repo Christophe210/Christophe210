@@ -11,9 +11,9 @@
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
 -  🔭 For API assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
--  
+  
 -  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
--  
+   
 -  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
 
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
