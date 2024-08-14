@@ -14,8 +14,6 @@
   
 -  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
    
--  🔭 I’m currently working on [Up Skills Hub ](https://upskillshub.com/)
-
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
 
 - 💬 Ask me about **Software Developement, Windows XP, Server Machines, and Ethical Hacking Challenges**
