@@ -1,6 +1,6 @@
 ![logo](https://github.com/Christophe210/Christophe210/blob/main/github%20prof.jpg)
 <h1 align="center">Hello 👋, I'm  Nshimiyimana Christophe</h1>
-<h3 align="center"> Passionate Rwandan software developer skilled in Windows XP, Server machines, and ethical hacking. </h3>
+<h3 align="center"> Passionate Rwandan software developer skilled in Digital Marketing, Windows XP, Server machines, and ethical hacking. </h3>
 
 <img align="right" alt="coding" width="395" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -24,7 +24,7 @@
    
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
 
-- 💬 Ask me about **Software Developement, Windows XP, Server Machines, and Ethical Hacking Challenges**
+- 💬 Ask me about **Software Developement, Digital Marketing, Windows XP, Server Machines, and Ethical Hacking Challenges**
 
 - 📫 How to reach me **christophe21445@gmail.com**
 
