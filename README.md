@@ -24,7 +24,7 @@
    
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
 
-- 💬 Ask me about **Software Developement, Digital Marketing, Windows XP, Server Machines, and Ethical Hacking Challenges**
+- 💬 Ask me about **Software Developement, Digital Marketing, Windows XP & Server Machines, and Ethical Hacking Challenges**
 
 - 📫 How to reach me **christophe21445@gmail.com**
 
