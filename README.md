@@ -12,6 +12,8 @@
 
 -  🔭 For API assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
+-  🔭 For Digital Marketing assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
+
 -  🔭 For Software Developement Support, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
 -  🔭 For Windows XP & Server Machines Support, get in touch with me  [ Here ](https://wa.me/+250798873226)
