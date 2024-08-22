@@ -10,9 +10,9 @@
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
 
--  🔭 For API assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
+-  🔭 For API Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
--  🔭 For Digital Marketing assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
+-  🔭 For Digital Marketing Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
 -  🔭 For Software Developement Support, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
