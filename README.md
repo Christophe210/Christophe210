@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-<br>
+<br><br>
 <!-- Tsinda Media -->
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="50" width="55" />
