@@ -43,8 +43,9 @@
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="50" width="55" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+<!-- TMA -->
 <a href="https://www.tsindamedia.com/tma" target="_blank">
   <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="50" width="55" />
 </a>
