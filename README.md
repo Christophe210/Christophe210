@@ -37,6 +37,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
 
+<br><br>
+
 <a href="https://www.tsindamedia.com/tma" target="_blank">
   <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="50" width="55" />
 </a>
@@ -44,10 +46,6 @@
 <!-- Tsinda Media -->
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="50" width="55" />
-</a>
-
-<a href="https://www.tsindamedia.com/tma" target="_blank">
-  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="50" width="55" />
 </a>
 
 <a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
