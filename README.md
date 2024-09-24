@@ -22,7 +22,7 @@
   
 -  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
    
-- 🔭 For support or inquiries, you can book a consultation through [ Here ](https://www.tsindamedia.com/Get%20in%20touch)
+- 🔭 For support or inquiries, you can book a consultation through [ Here ](https://calendar.google.com/calendar/u/0/r)
 
 - 💬 Ask me about **Software Developement, Digital Marketing, Windows XP & Server Machines, and Ethical Hacking Challenges**
 
