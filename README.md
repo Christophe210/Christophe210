@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **christophe21445@gmail.com**
 
-🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
+- 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
 
 - ⚡ Fun fact **I used to be rapper**
 
