@@ -20,7 +20,7 @@
 
 -   🔭 For Ethical Hacking Challenges, get in touch with me  [ Here ](https://wa.me/+250798873226)
   
--  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.tsindamedia.com/tma)
+-  🔭 TMA ( Tsinda Media Academy ) [Learn Practical Skills With Me](https://www.chrisofficial.com/)
    
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://calendar.google.com/calendar/u/0/r)
 
