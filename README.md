@@ -49,6 +49,15 @@
 <a href="https://www.tsindamedia.com/tma" target="_blank">
   <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.tsindamedia.com/tma" target="_blank">
+  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.tsindamedia.com/tma" target="_blank">
+  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
+</a>
 <br><br>
 <a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chris it 210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chris it 210" height="30" width="40" /></a>
