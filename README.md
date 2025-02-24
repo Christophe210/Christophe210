@@ -54,14 +54,23 @@
 <h3 align="left">Follow Me On Social Media</h3>
 <p align="left">
 
-    <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
   <img align="center" src="https://i.imgur.com/2ym8yKN.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tsindamedia/" target="_blank">
+  <img align="center" src="https://i.imgur.com/E2VWHeJ.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+</a>
 
-<a href="https://codeforces.com/profile/chris it 210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chris it 210" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@tsinda_media" target="_blank">
+  <img align="center" src="https://i.imgur.com/3X4evQh.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/p/Tsinda-Media-100054599342874" target="_blank">
+  <img align="center" src="https://i.imgur.com/aKbJJwe.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
