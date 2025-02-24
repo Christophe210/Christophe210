@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **I used to be rapper**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Products:</h3>
 <p align="left">
 
 <!-- Tsinda Media -->
@@ -49,18 +49,18 @@
 <a href="https://www.chrisofficial.com/" target="_blank">
   <img align="center" src="https://i.imgur.com/v0W8IqO.jpeg" alt="ChrisOfficial" height="60" width="65" />
 </a>
+</p>
 
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.tsindamedia.com/tma" target="_blank">
-  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
-</a>
+<h3 align="left">Follow Me On Social Media</h3>
+<p align="left">
 
-  <!-- LinkedIn -->
+    <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" />
+  <img align="center" src="https://i.imgur.com/2ym8yKN.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
 
 <a href="https://www.hackerrank.com/nshimiyimana christophe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nshimiyimana christophe" height="30" width="40" /></a>
+
 <a href="https://codeforces.com/profile/chris it 210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chris it 210" height="30" width="40" /></a>
 </p>
 
