@@ -38,23 +38,22 @@
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-<br><br>
 <!-- Tsinda Media -->
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="60" width="65" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <!-- TMA -->
-<a href="https://www.tsindamedia.com/tma" target="_blank">
-  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
+<a href="https://myteachconnect.com/" target="_blank">
+  <img align="center" src="https://i.imgur.com/pRi2dXc.jpeg" alt="My Teach Connect" height="60" width="65" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tsindamedia.com/tma" target="_blank">
-  <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.chrisofficial.com/" target="_blank">
+  <img align="center" src="https://i.imgur.com/v0W8IqO.jpeg" alt="ChrisOfficial" height="60" width="65" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.tsindamedia.com/tma" target="_blank">
   <img align="center" src="https://i.imgur.com/iSU6Shk.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
 </a>
