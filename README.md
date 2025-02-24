@@ -57,19 +57,23 @@
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
   <img align="center" src="https://i.imgur.com/2ym8yKN.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/tsindamedia/" target="_blank">
   <img align="center" src="https://i.imgur.com/E2VWHeJ.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.tiktok.com/@tsinda_media" target="_blank">
   <img align="center" src="https://i.imgur.com/3X4evQh.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/p/Tsinda-Media-100054599342874" target="_blank">
   <img align="center" src="https://i.imgur.com/aKbJJwe.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
-
+&nbsp;&nbsp;
+<a href="https://t.me/tsindamedia" target="_blank">
+  <img align="center" src="https://i.imgur.com/DSzLaji.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+</a>
+&nbsp;&nbsp;
 
 </p>
 
