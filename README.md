@@ -71,7 +71,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/tsindamedia" target="_blank">
-  <img align="center" src="https://i.imgur.com/DSzLaji.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+  <img align="center" src="https://i.imgur.com/emP4DEq.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
 &nbsp;&nbsp;
 
