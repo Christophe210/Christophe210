@@ -24,8 +24,9 @@
 - 🔭 For support or inquiries, you can book a consultation through [ Here ](https://calendar.google.com/calendar/u/0/r)
 
 - 💬 Feel free to reach out for insights on **Full-Stack Development, Digital Marketing, SEO, WordPress, and Ethical Hacking Challenges.**
-
-- 📫 How to reach me **christophe21445@gmail.com**
+-   🔭 Have a question or project in mind? Let’s chat on WhatsApp!  [ Here ](https://wa.me/+250798873226)
+  
+- 🔭 For inquiries and collaborations, feel free to reach out via email **christophe21445@gmail.com**
 
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
 
