@@ -30,13 +30,11 @@
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
 
 - ⚡ Fun fact **I used to be rapper**
-  <br>
+  <br><br><br>
 <h3 align="left">My Products:</h3>
 <p align="left">
 
 <!-- Tsinda Media -->
-
-
 
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="50" width="55" />
