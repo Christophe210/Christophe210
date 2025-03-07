@@ -29,7 +29,7 @@
   
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
 
-- ⚡ Fun fact **I used to be rapper**
+- ⚡ Fun fact: **I started as a hip-hop and trap artist before diving into tech!**
   <br><br><br>
 <h3 align="left">My Products:</h3>
 <p align="left">
