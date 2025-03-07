@@ -55,7 +55,7 @@
 <p align="left">
 
 <a href="https://www.youtube.com/@tsindamedia210" target="_blank">
-  <img align="center" src="https://i.imgur.com/or5ZG3e.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+  <img align="center" src="https://i.imgur.com/or5ZG3e.jpeg" alt="nshimiyimana christophe" height="50" width="40" />
 </a>
 &nbsp;&nbsp;
 
