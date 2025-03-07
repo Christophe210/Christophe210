@@ -54,6 +54,11 @@
 <h3 align="left">Follow Me On Social Media</h3>
 <p align="left">
 
+<a href="https://www.youtube.com/@tsindamedia210" target="_blank">
+  <img align="center" src="https://i.imgur.com/or5ZG3e.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
+</a>
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/nshimiyimana-christophe-42569226b/" target="_blank">
   <img align="center" src="https://i.imgur.com/2ym8yKN.jpeg" alt="nshimiyimana christophe" height="30" width="40" />
 </a>
