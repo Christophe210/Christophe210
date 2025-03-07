@@ -2,7 +2,7 @@
 <h2 align="center">Welcome to my code bank👋, I'm  Nshimiyimana Christophe</h2>
 <h3 align="center"> An expert in full-stack development, brand strategy, ethical hacking training, and digital marketing, with a strong focus on SEO and WordPress driving innovation to elevate brands and empower learners.</h3>
 <h3 align="center">🔭 To Support My Work, Please Donate Through <a href="https://flutterwave.com/donate/eqvx6ajii88o" target="_blank">Here</a></h3>
-<img align="left" alt="coding" width="390" height="100" src="https://i.imgur.com/5qS4S1V.jpeg">
+<img align="left" alt="coding" width="390" height="100%" src="https://i.imgur.com/5qS4S1V.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophe210&label=Profile%20views&color=0e75b6&style=flat" alt="christophe210" /> </p>
 
