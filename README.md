@@ -16,12 +16,10 @@
 -  🔭 For Ethical Hacking Challenges, get in touch with me  [ Here ](https://wa.me/+250798873226)    
 - 💬 Feel free to reach out for insights on **Full-Stack Development, Digital Marketing, SEO, WordPress, and Ethical Hacking Challenges.**
 -  🔭 Have a question or project in mind? Let’s chat  [ Here ](https://wa.me/+250786071620) 
--  🔭 For inquiries and collaborations, feel free to reach out via email [ Here ](mailto:tsindamedia@gmail.com) **christophe21445@gmail.com**
-
+-  🔭 For inquiries and collaborations, feel free to reach out via email [ Here ](mailto:christophe21445@gmail.com)
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
-
 - ⚡ Fun fact **I used to be rapper**
-
+<br><br>
 <h3 align="left">My Products:</h3>
 <p align="left">
 
