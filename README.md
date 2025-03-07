@@ -39,21 +39,22 @@
 <a href="https://tsindamedia.com" target="_blank">
   <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="50" width="55" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <!-- TMA -->
 <a href="https://myteachconnect.com/" target="_blank">
   <img align="center" src="https://i.imgur.com/pRi2dXc.jpeg" alt="My Teach Connect" height="50" width="55" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.chrisofficial.com/" target="_blank">
   <img align="center" src="https://i.imgur.com/v0W8IqO.jpeg" alt="ChrisOfficial" height="50" width="55" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.tsindamedia.com/tma" target="_blank">
   <img align="center" src="https://i.imgur.com/BKC8ptH.jpeg" alt="Tsinda Media Academy" height="50" width="55" />
 </a>
+&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Follow Me On Social Media</h3>
