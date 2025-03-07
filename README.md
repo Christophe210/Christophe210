@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophe210&label=Profile%20views&color=0e75b6&style=flat" alt="christophe210" /> </p>
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
--  🔭 All In One School Management System  [15 days trial](https://myteachconnect.com/)
+-  🔭 All In One School Management System  [15 days trial-Try It](https://myteachconnect.com/)
 -  🔭 For API Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
 
 -  🔭 For Digital Marketing Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
