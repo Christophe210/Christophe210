@@ -49,6 +49,11 @@
 <a href="https://www.chrisofficial.com/" target="_blank">
   <img align="center" src="https://i.imgur.com/v0W8IqO.jpeg" alt="ChrisOfficial" height="60" width="65" />
 </a>
+
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.tsindamedia.com/tma" target="_blank">
+  <img align="center" src="https://i.imgur.com/BKC8ptH.jpeg" alt="Tsinda Media Academy" height="60" width="65" />
+</a>
 </p>
 
 <h3 align="left">Follow Me On Social Media</h3>
