@@ -8,16 +8,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophe210&label=Profile%20views&color=0e75b6&style=flat" alt="christophe210" /> </p>
 
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
+  
 -  🔭 E-learning Platform [Learn Practical Skills With Me](https://www.chrisofficial.com/)
+  
 -  🔭 All In One School Management System  [15 days trial-Try It](https://myteachconnect.com/)
+  
 -  🔭 For API Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
+  
 -  🔭 For Digital Marketing Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
+  
 -  🔭 For Software Developement Support, get in touch with me  [ Here ](https://wa.me/+250798873226)
--  🔭 For Ethical Hacking Challenges, get in touch with me  [ Here ](https://wa.me/+250798873226)    
+  
+-  🔭 For Ethical Hacking Challenges, get in touch with me  [ Here ](https://wa.me/+250798873226)
+  
 - 💬 Feel free to reach out for insights on **Full-Stack Development, Digital Marketing, SEO, WordPress, and Ethical Hacking Challenges.**
--  🔭 Have a question or project in mind? Let’s chat  [ Here ](https://wa.me/+250786071620) 
+  
+-  🔭 Have a question or project in mind? Let’s chat  [ Here ](https://wa.me/+250786071620)
+  
 -  🔭 For inquiries and collaborations, feel free to reach out via email [ Here ](mailto:christophe21445@gmail.com)
+-  
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
+- 
 - ⚡ Fun fact **I used to be rapper**
   
 <h3 align="left">My Products:</h3>
