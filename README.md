@@ -37,7 +37,7 @@
 
 <!-- Tsinda Media -->
 <a href="https://tsindamedia.com" target="_blank">
-  <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="100" width="65" />
+  <img align="center" src="https://i.imgur.com/O9buVeg.png" alt="Tsinda Media" height="60" width="65" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
@@ -55,7 +55,7 @@
 <p align="left">
 
 <a href="https://www.youtube.com/@tsindamedia210" target="_blank">
-  <img align="center" src="https://i.imgur.com/or5ZG3e.jpeg" alt="nshimiyimana christophe" height="50" width="40" />
+  <img align="center" src="https://i.imgur.com/or5ZG3e.jpeg" alt="nshimiyimana christophe" height="100" width="60" />
 </a>
 &nbsp;&nbsp;
 
