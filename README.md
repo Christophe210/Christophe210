@@ -11,6 +11,8 @@
   
 -  🔭 E-learning Platform [Learn Practical Skills With Me](https://www.chrisofficial.com/)
   
+-  🔭 Learn Forex Trading With Me in Just 2 Weeks! [Start Today](https://www.chrisofficial.com/learn-forex-trading/)
+  
 -  🔭 All In One School Management System  [15 days trial-Try It](https://myteachconnect.com/)
   
 -  🔭 For API Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
