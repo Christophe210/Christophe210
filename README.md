@@ -29,8 +29,6 @@
   
 -  🔭 Have a question or project in mind? Let’s chat  [ Here ](https://wa.me/+250786071620)
   
--  🔭 For inquiries and collaborations, feel free to reach out via email [ Here ](mailto:christophe21445@gmail.com)
-  
 - 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
 
 - ⚡ Fun fact: **I started as a hip-hop and trap artist before diving into tech!**
