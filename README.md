@@ -10,6 +10,8 @@
 -  🔭 Tsinda Media Software Company  [Visit My Company ](https://tsindamedia.com/)
   
 -  🔭 E-learning Platform [Learn Practical Skills With Me](https://www.chrisofficial.com/)
+
+-  🔭 Top 4 Short Courses That Will Change Your Life Forever [The best time to start was yesterday. The next best time is NOW!](https://www.chrisofficial.com/top-4-short-courses/)
   
 -  🔭 Learn Forex Trading With Me in Just 2 Weeks! [Start Today](https://www.chrisofficial.com/learn-forex-trading/)
   
