@@ -52,7 +52,7 @@
   <img align="center" src="https://i.imgur.com/v0W8IqO.jpeg" alt="ChrisOfficial" height="50" width="55" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.tsindamedia.com/tma" target="_blank">
+<a href="https://www.upskillshub.com/" target="_blank">
   <img align="center" src="https://i.imgur.com/BKC8ptH.jpeg" alt="Tsinda Media Academy" height="50" width="55" />
 </a>
 </p>
