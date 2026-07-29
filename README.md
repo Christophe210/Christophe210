@@ -26,18 +26,6 @@
 -  🔭 For Digital Marketing Assistance, get in touch with me  [ Here ](https://wa.me/+250798873226)
   
 -  🔭 For Software Developement Support, get in touch with me  [ Here ](https://wa.me/+250798873226)
-  
--  🔭 For Ethical Hacking Challenges, get in touch with me  [ Here ](https://wa.me/+250798873226)
-  
-- 💬 Feel free to reach out for insights on **Full-Stack Development, Digital Marketing, SEO, WordPress, and Ethical Hacking Challenges.**
-  
--  🔭 Have a question or project in mind? Let’s chat  [ Here ](https://wa.me/+250786071620)
-  
-- 🔭 To Support My Work, Please Donate Through [ Here ](https://flutterwave.com/donate/eqvx6ajii88o)
-
-- ⚡ Fun fact: **I started as a hip-hop and trap artist before diving into tech!**
-  <br><br><br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophe210&show_icons=true&locale=en&layout=compact" alt="christophe210" /></p>
 
