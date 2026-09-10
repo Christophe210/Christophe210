@@ -8,6 +8,7 @@
 
 
 
+
 ![logo](https://github.com/Christophe210/Christophe210/blob/main/Chris.jpg) 
 <h2 align="center">Welcome to my code bank👋, I'm  Nshimiyimana Christophe</h2>
 <h3 align="center"> An expert in full-stack development, brand strategy, ethical hacking trainer, forex trading trainer, and digital marketing, with a strong focus on SEO and WordPress driving innovation to elevate brands and empower learners.</h3>
